@@ -13,7 +13,9 @@ namespace Quiz3a
         {
             //prompt user to input a number 
             Console.WriteLine("Please enter a number");
+            //vaiable to hold a number 
             int number = Convert.ToInt32(Console.ReadLine());
+            //variable to hold the sum value
             int sum = 0;
             //print out odd number 
             //use for loop to run through 
